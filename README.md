@@ -83,9 +83,4 @@ stepsize=.3e-9;</pre>
 	</div><!-- .entry-content -->
 </article><!-- #post-## -->
 
-		</main><!-- #main -->
-	</div><!-- #primary -->
-</div><!-- .wrap -->
-
-
-		</div><!-- #content -->
+		
